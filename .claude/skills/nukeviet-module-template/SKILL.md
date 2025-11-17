@@ -1,3 +1,8 @@
+---
+   name: nukeviet-module-template
+   description: Secure, production-ready template for NukeViet 5.x modules using Smarty Template Engine
+---
+
 # NukeViet 5.x Module Template
 
 Secure, production-ready template for NukeViet 5.x modules using **Smarty Template Engine**.
